@@ -1,5 +1,5 @@
-https://app.netlify.com/sites/sitemap-google-my-exam-app/
-https://app.netlify.com/sites/sitemap-google-my-exam-app/useCustom
-https://app.netlify.com/sites/sitemap-google-my-exam-app/useReducer
-https://app.netlify.com/sites/sitemap-google-my-exam-app/Nopage
-https://app.netlify.com/sites/sitemap-google-my-exam-app/Errorpage
+https://sitemap-google-my-exam-app.netlify.app/
+https://sitemap-google-my-exam-app.netlify.app/useCustom
+https://sitemap-google-my-exam-app.netlify.app/useReducer
+https://sitemap-google-my-exam-app.netlify.app/Nopage
+https://sitemap-google-my-exam-app.netlify.app/Errorpage
