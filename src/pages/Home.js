@@ -21,7 +21,6 @@ export const Home = () => {
           of exam question number 2{" "}
         </p>
       </div>
-      ;
     </>
   );
 };
