@@ -1,12 +1,6 @@
 import React, { useReducer } from "react";
 import { Helmet } from "react-helmet-async";
 
-const ACTIONS = {
-  INCREMENT: "increment",
-  DECREMENT: "decrement",
-  RESET: "reset",
-};
-
 function reducer(state, action) {
   switch (action.type) {
     case "ACTIONS.INCREMENT":
@@ -34,7 +28,7 @@ export const UseApp = () => {
   return (
     <>
       <Helmet>
-        <title>UseReducerHook</title>
+        <title>UseReducer</title>
         <meta
           name="description"
           content="Try the counter app for increment, decrement amd reset values"
